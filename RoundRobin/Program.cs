@@ -1,6 +1,4 @@
-// Aluna: Maria Eduarda S. Ferreira
-
-using System;
+﻿// Aluna: Maria Eduarda S. Ferreira
 
 namespace RoundRobin
 {
